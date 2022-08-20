@@ -38,4 +38,8 @@ Then I looked at the ngrams and word frequency for each coin.
 
 ### Word Clouds
 I then generated word clouds for each coin to summarize the news for each coin.
-![pic](./eth-word-cloud.png)
+
+![wordcl](https://st2.depositphotos.com/1006360/6428/v/950/depositphotos_64286411-stock-illustration-bitcoin-word-cloud.jpg)
+![wordcle](https://c8.alamy.com/comp/JG0TE5/ethereum-crypto-currency-word-cloud-over-black-JG0TE5.jpg)
+
+![bit](https://c.tenor.com/YHZDY50RhXgAAAAC/bitcoin-cryptocurrency.gif)

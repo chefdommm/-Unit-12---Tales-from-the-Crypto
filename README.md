@@ -38,3 +38,4 @@ Then I looked at the ngrams and word frequency for each coin.
 
 ### Word Clouds
 I then generated word clouds for each coin to summarize the news for each coin.
+![pic](./eth-word-cloud.png)
